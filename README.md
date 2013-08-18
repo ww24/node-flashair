@@ -71,7 +71,7 @@ Document
 #### ファイルリストの取得
 ##### Example
 ```js
-flashair.command.readdir("/", function (err, files) {
+flashair.command.filelist("/", function (err, files) {
   if (err)
     throw err;
 
