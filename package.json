@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "flashair",
+=======
+  "name": "node-flashair",
+>>>>>>> 763cea82475040c94598763dd8a587071eec851c
   "version": "0.1.0",
   "devDependencies": {
     "chai": "~1.7.2",
